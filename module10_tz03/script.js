@@ -53,5 +53,3 @@ ctaGeo.addEventListener('click', () => {
     });
   }
 });
-
-window.open('http://www.example.com?ReportID=1', '_blank');
